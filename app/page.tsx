@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Navbar } from "@/app/components/navbar/index";
-import Hero from "./components/pages/hero";
+import Hero from "./components/pages/Hero";
 import HeroScroll from "@/components/container-scroll-animation-demo";
 import { DigitalTransformation } from "./components/pages/DigitalTransformation";
 import { Services } from "./components/pages/Services";
